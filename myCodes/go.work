@@ -1,7 +1,0 @@
-go 1.21.4
-
-use (
-	./function-api
-	./main-api
-	./builds
-)
